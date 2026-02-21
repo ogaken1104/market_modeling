@@ -50,12 +50,12 @@
 ### Step 5: 結果のまとめ
 - [x] 結果を表形式でまとめる
 
-| method | estimand | effect |
-|--------|----------|--------|
-| RCT (benchmark) | ATT | xx |
-| Matching | ATT | xx |
-| Stratification | ATE | xx |
-| IPW | ATE | xx |
+| method          | estimand | effect |
+| --------------- | -------- | ------ |
+| RCT (benchmark) | ATT      | xx     |
+| Matching        | ATT      | xx     |
+| Stratification  | ATE      | xx     |
+| IPW             | ATE      | xx     |
 
 ## 使用ライブラリ
 
