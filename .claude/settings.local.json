@@ -10,7 +10,8 @@
       "Bash(uv run python3:*)",
       "Bash(uv run jupyter nbconvert:*)",
       "Bash(uv run python:*)",
-      "Bash(uv venv)"
+      "Bash(uv venv)",
+      "Bash(uv run jupyter --version)"
     ]
   }
 }
