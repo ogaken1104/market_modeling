@@ -4,7 +4,13 @@
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "Bash(uv sync:*)",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "Bash(python3:*)",
+      "Bash(uv add:*)",
+      "Bash(uv run python3:*)",
+      "Bash(uv run jupyter nbconvert:*)",
+      "Bash(uv run python:*)",
+      "Bash(uv venv)"
     ]
   }
 }
