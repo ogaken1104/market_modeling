@@ -11,7 +11,13 @@
       "Bash(uv run jupyter nbconvert:*)",
       "Bash(uv run python:*)",
       "Bash(uv venv)",
-      "Bash(uv run jupyter --version)"
+      "Bash(uv run jupyter --version)",
+      "mcp__github__search_repositories",
+      "mcp__github__create_repository",
+      "Bash(git push -u origin main)",
+      "mcp__github__get_file_contents",
+      "mcp__github__push_files",
+      "Bash(git push)"
     ]
   }
 }
